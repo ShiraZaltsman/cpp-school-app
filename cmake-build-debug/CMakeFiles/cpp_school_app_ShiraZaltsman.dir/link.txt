@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp_school_app_ShiraZaltsman.dir/main.cpp.o CMakeFiles/cpp_school_app_ShiraZaltsman.dir/person.cpp.o CMakeFiles/cpp_school_app_ShiraZaltsman.dir/student.cpp.o CMakeFiles/cpp_school_app_ShiraZaltsman.dir/teacher.cpp.o CMakeFiles/cpp_school_app_ShiraZaltsman.dir/school.cpp.o  -o cpp_school_app_ShiraZaltsman 
