@@ -258,6 +258,33 @@ teacher.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/teacher.cpp.s
 .PHONY : teacher.cpp.s
 
+test_school.o: test_school.cpp.o
+
+.PHONY : test_school.o
+
+# target to build an object file
+test_school.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/test_school.cpp.o
+.PHONY : test_school.cpp.o
+
+test_school.i: test_school.cpp.i
+
+.PHONY : test_school.i
+
+# target to preprocess a source file
+test_school.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/test_school.cpp.i
+.PHONY : test_school.cpp.i
+
+test_school.s: test_school.cpp.s
+
+.PHONY : test_school.s
+
+# target to generate assembly for a file
+test_school.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/test_school.cpp.s
+.PHONY : test_school.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -282,6 +309,9 @@ help:
 	@echo "... teacher.o"
 	@echo "... teacher.i"
 	@echo "... teacher.s"
+	@echo "... test_school.o"
+	@echo "... test_school.i"
+	@echo "... test_school.s"
 .PHONY : help
 
 

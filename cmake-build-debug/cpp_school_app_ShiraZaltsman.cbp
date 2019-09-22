@@ -111,6 +111,12 @@
 		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/teacher.h">
 			<Option target="cpp_school_app_ShiraZaltsman"/>
 		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/test_school.cpp">
+			<Option target="cpp_school_app_ShiraZaltsman"/>
+		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/test_school.h">
+			<Option target="cpp_school_app_ShiraZaltsman"/>
+		</Unit>
 		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

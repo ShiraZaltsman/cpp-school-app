@@ -15,3 +15,7 @@ void Teacher::action() {
     std::cout<<"Hello World! my name is "<<this->getName()<<" and I'm teaching: "<<m_lesson<<std::endl;
 
 }
+
+Teacher::~Teacher() {
+
+}

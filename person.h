@@ -15,10 +15,12 @@ public:
     virtual void action() = 0;
 
 private:
-    std::string m_name;
     size_t m_id;
-    static size_t ID =0;
+    std::string m_name;
+    static size_t current_id;
 
 
 };
+
+
 #endif //CPP_SCHOOL_APP_SHIRAZALTSMAN_PERSON_H

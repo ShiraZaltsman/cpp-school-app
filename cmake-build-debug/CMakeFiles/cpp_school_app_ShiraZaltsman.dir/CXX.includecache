@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/person.h
+string
+-
+
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.cpp
+school.h
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.h
+
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.h
+map
+-
+student.h
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/student.h
+teacher.h
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/teacher.h
+list
+-
+vector
+-
+
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/student.h
+string
+-
+person.h
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/person.h
+
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/teacher.h
+person.h
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/person.h
+

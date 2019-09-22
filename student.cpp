@@ -9,5 +9,9 @@ Student::Student(const std::string &name, unsigned char grade):Person(name),m_gr
 }
 
 void Student::action() {
-    cout<<"Hello World! my name is "<<this->getName()<<" and I'm in grade: "<<m_grade<<endl;
+    cout<<"Hello World! my name is "<<this->getName()<<" and I'm in grade: "<<this->m_grade<<endl;
+}
+
+Student::~Student() {
+
 }

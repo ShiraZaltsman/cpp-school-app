@@ -13,6 +13,7 @@ public:
     Student(const std::string& name, unsigned char grade );
 
     void action();
+    virtual ~Student();
 private:
     unsigned char m_grade;
 };

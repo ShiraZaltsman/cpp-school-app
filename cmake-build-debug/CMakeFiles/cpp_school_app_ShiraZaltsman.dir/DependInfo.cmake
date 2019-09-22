@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/school.cpp.o"
   "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/student.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/student.cpp.o"
   "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/teacher.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/teacher.cpp.o"
+  "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/test_school.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/test_school.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
