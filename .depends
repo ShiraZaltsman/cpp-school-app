@@ -1,7 +1,0 @@
-person.o: person.cpp person.h
-school.o: school.cpp school.h student.h person.h teacher.h
-test_school.o: test_school.cpp test_school.h school.h student.h person.h \
- teacher.h
-teacher.o: teacher.cpp teacher.h person.h
-student.o: student.cpp student.h person.h
-main.o: main.cpp school.h student.h person.h teacher.h test_school.h
