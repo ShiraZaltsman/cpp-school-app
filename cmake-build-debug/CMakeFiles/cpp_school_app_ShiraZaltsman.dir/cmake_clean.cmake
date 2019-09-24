@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_school_app_ShiraZaltsman.dir/teacher.cpp.o"
   "CMakeFiles/cpp_school_app_ShiraZaltsman.dir/school.cpp.o"
   "CMakeFiles/cpp_school_app_ShiraZaltsman.dir/test_school.cpp.o"
+  "CMakeFiles/cpp_school_app_ShiraZaltsman.dir/mystring.cpp.o"
   "cpp_school_app_ShiraZaltsman.pdb"
   "cpp_school_app_ShiraZaltsman"
 )

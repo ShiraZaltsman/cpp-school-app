@@ -7,7 +7,7 @@
 using std::cout;
 using std::endl;
 
-Teacher::Teacher(const std::string &name, const std::string &lesson) : Person(name), m_lesson(lesson) {
+Teacher::Teacher(const MyString &name, const MyString &lesson) : Person(name), m_lesson(lesson) {
 
 }
 

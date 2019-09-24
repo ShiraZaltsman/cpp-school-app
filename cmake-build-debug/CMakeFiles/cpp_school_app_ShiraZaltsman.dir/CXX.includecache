@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/shira/Desktop/cpp-school-app-ShiraZaltsman/person.h
-string
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/mystring.h
+iostream
 -
+
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/person.h
+mystring.h
+/home/shira/Desktop/cpp-school-app-ShiraZaltsman/mystring.h
 
 /home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.cpp
 school.h
 /home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.h
+exception
+-
 
 /home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.h
 map

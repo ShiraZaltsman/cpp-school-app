@@ -10,7 +10,7 @@
 
 class Student: public Person{
 public:
-    Student(const std::string& name, unsigned char grade );
+    Student(const MyString& name, unsigned char grade );
 
     void action();
 

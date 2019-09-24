@@ -87,6 +87,12 @@
 		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/main.cpp">
 			<Option target="cpp_school_app_ShiraZaltsman"/>
 		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/mystring.cpp">
+			<Option target="cpp_school_app_ShiraZaltsman"/>
+		</Unit>
+		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/mystring.h">
+			<Option target="cpp_school_app_ShiraZaltsman"/>
+		</Unit>
 		<Unit filename="/home/shira/Desktop/cpp-school-app-ShiraZaltsman/person.cpp">
 			<Option target="cpp_school_app_ShiraZaltsman"/>
 		</Unit>

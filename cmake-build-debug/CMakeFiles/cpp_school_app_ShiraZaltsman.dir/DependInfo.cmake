@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/main.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/main.cpp.o"
+  "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/mystring.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/mystring.cpp.o"
   "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/person.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/person.cpp.o"
   "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/school.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/school.cpp.o"
   "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/student.cpp" "/home/shira/Desktop/cpp-school-app-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_school_app_ShiraZaltsman.dir/student.cpp.o"

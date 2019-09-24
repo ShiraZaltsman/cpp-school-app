@@ -8,14 +8,14 @@
 
 class Teacher : public Person {
 public:
-    Teacher(const std::string &name, const std::string &lesson);
+    Teacher(const MyString &name, const MyString &lesson);
 
     void action();
 
     virtual ~Teacher();
 
 private:
-    const std::string m_lesson;
+    const MyString m_lesson;
 };
 
 #endif //CPP_SCHOOL_APP_SHIRAZALTSMAN_TEACHER_H

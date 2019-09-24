@@ -6,7 +6,7 @@
 
 size_t Person::current_id = 1000;
 
-Person::Person(const std::string &s) : m_id(current_id++), m_name(s) {
+Person::Person(const MyString &s) : m_id(current_id++), m_name(s) {
 
 }
 

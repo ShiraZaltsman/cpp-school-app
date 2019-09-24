@@ -6,7 +6,7 @@
 
 using namespace std;
 
-Student::Student(const std::string &name, unsigned char grade) : Person(name), m_grade(grade) {
+Student::Student(const MyString &name, unsigned char grade) : Person(name), m_grade(grade) {
 
 }
 

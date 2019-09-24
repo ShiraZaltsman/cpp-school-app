@@ -5,13 +5,13 @@
 #ifndef CPP_SCHOOL_APP_SHIRAZALTSMAN_PERSON_H
 #define CPP_SCHOOL_APP_SHIRAZALTSMAN_PERSON_H
 
-#include <string>
+#include "mystring.h"
 
 class Person {
 public:
-    Person(const std::string &s);
+    Person(const MyString &s);
 
-    const std::string &getName();
+    const MyString &getName();
 
     size_t getId();
 
@@ -19,12 +19,12 @@ public:
 
 private:
     size_t m_id;
-    std::string m_name;
+    MyString m_name;
     static size_t current_id;
 };
 
 inline size_t Person::getId() { return this->m_id; }
 
-inline const std::string &Person::getName() { return this->m_name; }
+inline const MyString &Person::getName() { return this->m_name; }
 
 #endif //CPP_SCHOOL_APP_SHIRAZALTSMAN_PERSON_H

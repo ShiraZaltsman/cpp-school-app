@@ -150,6 +150,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mystring.o: mystring.cpp.o
+
+.PHONY : mystring.o
+
+# target to build an object file
+mystring.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/mystring.cpp.o
+.PHONY : mystring.cpp.o
+
+mystring.i: mystring.cpp.i
+
+.PHONY : mystring.i
+
+# target to preprocess a source file
+mystring.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/mystring.cpp.i
+.PHONY : mystring.cpp.i
+
+mystring.s: mystring.cpp.s
+
+.PHONY : mystring.s
+
+# target to generate assembly for a file
+mystring.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_school_app_ShiraZaltsman.dir/build.make CMakeFiles/cpp_school_app_ShiraZaltsman.dir/mystring.cpp.s
+.PHONY : mystring.cpp.s
+
 person.o: person.cpp.o
 
 .PHONY : person.o
@@ -297,6 +324,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mystring.o"
+	@echo "... mystring.i"
+	@echo "... mystring.s"
 	@echo "... person.o"
 	@echo "... person.i"
 	@echo "... person.s"

@@ -19,18 +19,23 @@ public:
 
     void addTeacher(Teacher *teacher);
 
+    void removeStudent(size_t s_id);
+    void removeTeacher(size_t t_id);
+
     size_t getNumOfStudents() const;
 
     size_t getNumOfTeachers() const;
 
     void pairTeacherToStudent(size_t ratio);
 
-    std::list<Student *> getTeacherStudents(const std::string &teacherName) const;
+    std::list<Student *> getTeacherStudents(const MyString &teacherName) const;
 
+    void printStudents();
+    void printTeacher();
 private:
     std::vector<Student *> m_all_students;
     std::vector<Teacher *> m_all_teacher;
-    std::map<const std::string, std::list<Student *> > m_student_teacher;
+    std::map<const MyString, std::list<Student *> > m_student_teacher;
 };
 
 
